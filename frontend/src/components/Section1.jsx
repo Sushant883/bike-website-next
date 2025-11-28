@@ -61,7 +61,7 @@ export default function Section1() {
                             <h4 className=" ml-8">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae illo officia illum, ea voluptatum ipsum?</h4>
                         </div>
                         <div className="flex items-center">
-                            <img src="/assets/images/3 card image.png" alt="" className="h-30 w-25 
+                            <img src="/assets/images/3 card Image.png" alt="" className="h-30 w-25 
                             [@media(max-width:450px)]:w-full
                             " />
                             <h4 className=" ml-8">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae illo officia illum, ea voluptatum ipsum?</h4>
